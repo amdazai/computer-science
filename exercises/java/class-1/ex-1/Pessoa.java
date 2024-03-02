@@ -4,7 +4,7 @@
 public class Pessoa {
 	String nome;
 	double peso;
-	double altura;;
+	double altura;
 
 	Pessoa(String s, double p, double a) {
 		nome = s;
