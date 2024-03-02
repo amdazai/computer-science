@@ -1,4 +1,6 @@
+<br>
 
+### Exercicio 1 
 Uma construtora de grande porte deseja implementar um sistema e seus requisitos estão listado abaixo. Faça o modelo conceitual deles.
 
 - A construtora possui projetos, departamentos e funcionários;
@@ -10,4 +12,6 @@ Uma construtora de grande porte deseja implementar um sistema e seus requisitos 
 -  Um funcionário está lotado num departamento e pode trabalhar em mais de um projeto;
 -  Os departamentos possuem funcionários que são chefes
 
-![[Pasted image 20240302154433.png]]
+<br>
+
+![alt text](image.png)
