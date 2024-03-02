@@ -10,4 +10,3 @@ dias = int(input('Quantos dias foi o carro alugado? '))
 preco = (60 * dias) + (0.15 * km)
 
 print(f'O preço a pagar é de R${preco:.2f}')
-
